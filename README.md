@@ -1,3 +1,6 @@
+# 꿀밤 앱에서 이용중
+
+
 [![pub package](https://img.shields.io/pub/v/countup.svg)](https://pub.dev/packages/countup) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
